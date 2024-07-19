@@ -37,3 +37,43 @@ Bitaqa makes it easy to connect and share information with just a tap!
 </p>
 
 The Bitaqa Starter Pack includes essential tools for enhancing your online presence and reputation. It features custom-designed cards for Instagram and Google Reviews, making it easier for users to share and promote their profiles and business.
+
+### Applying Bitaqa in Real Life
+
+**Bitaqa** offers practical solutions for real-world interactions using NFC technology, providing convenience and enhancing connectivity. Here's how Bitaqa's features can be utilized in everyday scenarios:
+
+#### NFC Card Dimensions
+
+The standard NFC card, such as the ones used in Bitaqa, typically follows these dimensions:
+
+- **Width**: 85.6 mm
+- **Height**: 54 mm
+- **Thickness**: 0.76 mm
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1119257753987334205/1263897492991250454/rfid-nfc-tag-ntag213-credit-card-dimension-removebg-preview.png?ex=669be7c4&is=669a9644&hm=1518bc79fc50b1907519187a2eb3157ddef68daf1d35f2e6c9dcac8f66450c3f&=&quality=lossless" alt="NFC Card Dimensions">
+</p>
+
+These dimensions make the card compact and easy to carry, fitting seamlessly in your wallet or pocket.
+
+#### Google Reviews Card in Real Life
+
+The Google Reviews card helps businesses gather customer feedback effortlessly. Here's how it looks in real life:
+
+<p align="center">
+  <img src="https://media.discordapp.net/attachments/1119257753987334205/1263898892983074886/WhatsApp_Image_2024-07-19_a_18.39.28_3d23b2bd.jpg?ex=669be912&is=669a9792&hm=0f826412dfd088ab88de1198e8499db604d4cd7b2ba3c59e5a032dce11313351&=" alt="Instagram Card 1" width="300">
+  <img src="https://media.discordapp.net/attachments/1119257753987334205/1263898893330944091/WhatsApp_Image_2024-07-19_a_18.38.47_f46e2cb3.jpg?ex=669be912&is=669a9792&hm=f7d7d1e590011637653685a906f910b4bf075763ce598b0a8dd1a4562caf9fb7&=" alt="Instagram Card 2" width="300">
+</p>
+
+By simply tapping the card, customers are directed to the business's Google review page, making it easy to leave a review.
+
+#### Instagram Card in Real Life
+
+The Instagram card allows users to quickly share their Instagram profile. Here's how it looks in real life:
+
+<p align="center">
+<img src="https://media.discordapp.net/attachments/1119257753987334205/1263898892622368861/WhatsApp_Image_2024-07-19_a_18.39.45_7a8b1b7f.jpg?ex=669be912&is=669a9792&hm=0587a7ba1b917c343a57f00020f49aa4396840743ce1a1f6b4b8805f1811ec9f&=" alt="Google Reviews Card 2" width="300">
+  <img src="https://media.discordapp.net/attachments/1119257753987334205/1263898892118790214/WhatsApp_Image_2024-07-19_a_18.42.09_f1bdabb7.jpg?ex=669be911&is=669a9791&hm=68ef562638c897512eaa393df9b39fc8133b923d97b32369b93ebb33ecc67a1d&=" alt="Google Reviews Card 1" width="300">
+</p>
+
+With a tap, people can instantly access your Instagram profile, making it easy to connect and follow.
