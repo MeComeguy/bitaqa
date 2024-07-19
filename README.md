@@ -77,3 +77,7 @@ The Instagram card allows users to quickly share their Instagram profile. Here's
 </p>
 
 With a tap, people can instantly access your Instagram profile, making it easy to connect and follow.
+
+### Coding Part
+
+Unfortunately, we will be using only an app called [NFC Tools](https://www.wakdev.com/en/apps/nfc-tools.html) to program the NFC tags for Bitaqa. NFC Tools is a versatile app that allows you to read, write, and program tasks on your NFC tags and other compatible NFC chips. It's user-friendly and provides all the necessary features to get started with your Bitaqa NFC cards.
