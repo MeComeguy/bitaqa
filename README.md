@@ -81,3 +81,29 @@ With a tap, people can instantly access your Instagram profile, making it easy t
 ### Coding Part
 
 Unfortunately, we will be using only an app called [NFC Tools](https://www.wakdev.com/en/apps/nfc-tools.html) to program the NFC tags for Bitaqa. NFC Tools is a versatile app that allows you to read, write, and program tasks on your NFC tags and other compatible NFC chips. It's user-friendly and provides all the necessary features to get started with your Bitaqa NFC cards.
+
+### Installation
+
+To get started with Bitaqa, you'll need to download the [NFC Tools app](https://www.wakdev.com/en/apps/nfc-tools.html). Follow the instructions on the app's website to install it on your device.
+
+### Usage
+
+1. **Open the NFC Tools app**: After installing the app, open it on your device.
+2. **Select 'Write'**: Choose the option to write on your NFC tag.
+3. **Add a record**: Add the type of record you want to write (e.g., Wi-Fi details, URL, social media links).
+4. **Tap the NFC tag**: Place your NFC tag on the back of your device to program it with the selected record.
+5. **Verify the data**: Use the 'Read' option in the NFC Tools app to verify that the data has been correctly written to the tag.
+
+For detailed instructions on specific tasks, refer to the NFC Tools app's [documentation](https://www.wakdev.com/en/apps/nfc-tools.html).
+
+### License
+
+Bitaqa is licensed under the [MIT License](https://opensource.org/licenses/MIT). You are free to use, modify, and distribute this software in accordance with the terms of the license.
+
+### Contact Information
+
+If you have any questions or need further assistance, please feel free to contact us on Discord:
+
+<a href="https://discordapp.com/users/1119232751678259200">
+  <img src="https://dcbadge.vercel.app/api/shield/1119232751678259200" alt="Discord Badge"/>
+</a>
