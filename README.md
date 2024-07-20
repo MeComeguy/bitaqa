@@ -107,3 +107,7 @@ If you have any questions or need further assistance, please feel free to contac
 <a href="https://discordapp.com/users/1119232751678259200">
   <img src="https://dcbadge.vercel.app/api/shield/1119232751678259200" alt="Discord Badge"/>
 </a>
+
+### Important Note
+
+Bitaqa is not a real profitable project; it is just a demo showcasing the potential of NFC technology in a business context. The purpose of Bitaqa is to demonstrate how NFC can be used for various practical applications and to provide an example of how such a project can be implemented.
